@@ -1,4 +1,5 @@
 USAGE:
+
 	A song that is renamed will have its Artist and Song Name replaced by the name of the custom songs folder (e.g the folder "Rick Astley - Never Gonna Give You Up" will modify the info.json to change the artists name to Rick Astley and the song name to Never Gonna Give You Up). Folders that don't match the format "ARTIST - SONG NAME" will be ignored
 
 
